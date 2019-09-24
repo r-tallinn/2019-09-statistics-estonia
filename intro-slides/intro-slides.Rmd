@@ -1,0 +1,134 @@
+---
+title: "Tallinn R User Group"
+subtitle: "@Statistics Estonia"
+date: "2019-09-24"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ["theme.css", robot-fonts]
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+class: center, middle
+
+# Thank you to our hosts:
+
+## Siim Nettan & Statistics Estonia
+
+---
+
+# About the group
+
+.large[
+
+Previous meetings:
+
+- February 2019 @Rahvusraamatukogu (Reigo)
+- May 2019 @SpringHub
+- Now @Statistics Estonia
+- early December @somewhere??
+
+Goals:
+
+- meet other R users
+- learn new parts of R that you maybe didn't know about
+
+]
+
+???
+
+---
+
+class: middle
+
+# We need your help
+
+.large[
+- Present: a chance to present some work or dive into a topic that interests you
+
+- Host: arrange for your company/organization to host a future event
+
+- Design us a logo!
+]
+
+---
+
+class: center, middle
+
+# Updates
+
+---
+
+class: center
+background-image: url("images/meetup-page.png")
+background-size: 100%
+
+# Group page: sorry FB!
+
+
+---
+
+class: center
+background-image: url("images/github-r-tallinn.png")
+background-size: 100%
+
+## https://github.com/r-tallinn
+
+---
+
+class: center, middle
+
+## Introductory remarks by our host
+
+.large[ Siim Nettan, Product Manager at Statistics Estonia ]
+
+---
+
+class: center, middle
+
+## userR! 2019: tidyverse vs base and other notes from the conference
+
+.large[  Alexander Matrunich, Data Analyst at Bolt]
+
+---
+
+class: center, middle
+
+## Goodbye SAS, hello R
+
+Siim Nettan, Product Manager at Statistics Estonia
+
+---
+
+# Program
+
+17:30 - Arrival and snacks
+
+18:00 - Introduction and remarks by Siim Nettan, Statistics Estonia
+
+18:15 - Alexander Matrunich, Data Analyst at Bolt: *userR! 2019: tidyverse vs base and other notes from the conference*
+
+19:00 - Siim Nettan, Product Manager at Statistics Estonia: *Goodbye SAS, hello R*
+
+20:00 or so: end
+
+---
+
+# Contacts and links
+
+.large[
+https://github.com/r-tallinn
+
+Andreas Beger
+
+- [adbeger@gmail.com](mailto:adbeger+rtallinn@gmail.com)
+- Twitter: [@andybeega](https://twitter.com/andybeega)
+
+Reigo Hendrikson
+
+- [reigo.hendrikson@gmail.com](mailto:reigo.hendrikson@gmail.com)
+- Twitter: [@ReigoHendrikson](https://twitter.com/ReigoHendrikson)
+]
